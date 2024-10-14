@@ -2,7 +2,7 @@
 Made by YANG(2023/01/31)
 
 ## 説明
-工夫点.docx
+工夫点.pdf
 
 ---
 Encoding:UTF-8
